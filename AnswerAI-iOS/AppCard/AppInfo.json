@@ -1,0 +1,35 @@
+{
+    "app-001": {
+        "AppStore Mention": "",
+        "AppStore Title": "",
+        "AppStore Caption": "",
+        
+        "background": "runna-background",
+        "icon": "runna-icon",
+        
+        "appTitle": "",
+        "appCaption": "",
+        
+        "body": {
+            "highlight": [],
+            "text": []
+        }
+    },
+    
+    "app-002": {
+        "AppStore Mention": "",
+        "AppStore Title": "",
+        "AppStore Caption": "",
+        
+        "background": "runna-background",
+        "icon": "runna-icon",
+        
+        "appTitle": "",
+        "appCaption": "",
+        
+        "body": {
+            "highlight": [],
+            "text": []
+        }
+    }
+}

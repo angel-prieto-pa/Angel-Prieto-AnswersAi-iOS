@@ -1,0 +1,94 @@
+<svg width="3300" height="2200" viewBox="0 0 3300 2200" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="app.arcade" clip-path="url(#clip0_1_2)">
+<g id="Notes">
+<path id="artboard" d="M3289 33H-11V2233H3289V33Z" fill="white"/>
+<path id="Vector" d="M252 325H3025" stroke="black" stroke-width="0.5"/>
+<text id="Weight/Scale Variations" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="13" font-weight="bold" letter-spacing="0em"><tspan x="252" y="354.727">Weight/Scale Variations</tspan></text>
+<text id="Ultralight" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="520.661" y="354.727">Ultralight</tspan></text>
+<text id="Thin" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="832.067" y="354.727">Thin</tspan></text>
+<text id="Light" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="1126.77" y="354.727">Light</tspan></text>
+<text id="Regular" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="1415.58" y="354.727">Regular</tspan></text>
+<text id="Medium" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="1710.99" y="354.727">Medium</tspan></text>
+<text id="Semibold" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="2003.65" y="354.727">Semibold</tspan></text>
+<text id="Bold" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="2315.29" y="354.727">Bold</tspan></text>
+<text id="Heavy" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="2606.32" y="354.727">Heavy</tspan></text>
+<text id="Black" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="2905.8" y="354.727">Black</tspan></text>
+<path id="Vector_2" d="M252 1936H3025" stroke="black" stroke-width="0.5"/>
+<g id="Group">
+<path id="Vector_3" d="M261.248 1966.83C265.604 1966.83 269.139 1963.3 269.139 1958.95C269.139 1954.59 265.604 1951.07 261.248 1951.07C256.902 1951.07 253.367 1954.59 253.367 1958.95C253.367 1963.3 256.902 1966.83 261.248 1966.83ZM261.248 1965.35C257.713 1965.35 254.861 1962.48 254.861 1958.95C254.861 1955.41 257.713 1952.55 261.248 1952.55C264.783 1952.55 267.645 1955.41 267.645 1958.95C267.645 1962.48 264.783 1965.35 261.248 1965.35ZM257.654 1958.95C257.654 1959.38 257.957 1959.67 258.406 1959.67H260.506V1961.79C260.506 1962.23 260.799 1962.53 261.228 1962.53C261.678 1962.53 261.971 1962.23 261.971 1961.79V1959.67H264.09C264.529 1959.67 264.832 1959.38 264.832 1958.95C264.832 1958.51 264.529 1958.21 264.09 1958.21H261.971V1956.1C261.971 1955.65 261.678 1955.35 261.228 1955.35C260.799 1955.35 260.506 1955.65 260.506 1956.1V1958.21H258.406C257.957 1958.21 257.654 1958.51 257.654 1958.95Z" fill="black"/>
+</g>
+<g id="Group_2">
+<path id="Vector_4" d="M282.215 1968.91C287.713 1968.91 292.176 1964.45 292.176 1958.95C292.176 1953.45 287.713 1948.99 282.215 1948.99C276.717 1948.99 272.254 1953.45 272.254 1958.95C272.254 1964.45 276.717 1968.91 282.215 1968.91ZM282.215 1967.25C277.625 1967.25 273.914 1963.54 273.914 1958.95C273.914 1954.36 277.625 1950.65 282.215 1950.65C286.805 1950.65 290.516 1954.36 290.516 1958.95C290.516 1963.54 286.805 1967.25 282.215 1967.25ZM277.684 1958.95C277.684 1959.43 278.016 1959.75 278.514 1959.75H281.385V1962.63C281.385 1963.12 281.717 1963.46 282.195 1963.46C282.684 1963.46 283.026 1963.13 283.026 1962.63V1959.75H285.906C286.395 1959.75 286.736 1959.43 286.736 1958.95C286.736 1958.46 286.395 1958.12 285.906 1958.12H283.026V1955.25C283.026 1954.75 282.684 1954.41 282.195 1954.41C281.717 1954.41 281.385 1954.75 281.385 1955.25V1958.12H278.514C278.016 1958.12 277.684 1958.46 277.684 1958.95Z" fill="black"/>
+</g>
+<g id="Group_3">
+<path id="Vector_5" d="M308.895 1971.66C315.916 1971.66 321.619 1965.97 321.619 1958.95C321.619 1951.93 315.916 1946.22 308.895 1946.22C301.873 1946.22 296.18 1951.93 296.18 1958.95C296.18 1965.97 301.873 1971.66 308.895 1971.66ZM308.895 1969.85C302.869 1969.85 297.996 1964.97 297.996 1958.95C297.996 1952.92 302.869 1948.05 308.895 1948.05C314.92 1948.05 319.793 1952.92 319.793 1958.95C319.793 1964.97 314.92 1969.85 308.895 1969.85ZM303.123 1958.95C303.123 1959.47 303.494 1959.83 304.041 1959.83H307.987V1963.78C307.987 1964.32 308.358 1964.7 308.875 1964.7C309.412 1964.7 309.783 1964.33 309.783 1963.78V1959.83H313.739C314.276 1959.83 314.657 1959.47 314.657 1958.95C314.657 1958.4 314.285 1958.03 313.739 1958.03H309.783V1954.09C309.783 1953.54 309.412 1953.16 308.875 1953.16C308.358 1953.16 307.987 1953.54 307.987 1954.09V1958.03H304.041C303.494 1958.03 303.123 1958.4 303.123 1958.95Z" fill="black"/>
+</g>
+<text id="Design Variations" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="13" font-weight="bold" letter-spacing="0em"><tspan x="252" y="1985.73">Design Variations</tspan></text>
+<text id="Symbols are supported in up to nine weights and three scales." fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="252" y="2003.73">Symbols are supported in up to nine weights and three scales.</tspan></text>
+<text id="For optimal layout with text and other symbols, vertically align" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="252" y="2021.73">For optimal layout with text and other symbols, vertically align</tspan></text>
+<text id="symbols with the adjacent text." fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="252" y="2039.73">symbols with the adjacent text.</tspan></text>
+<path id="Vector_6" d="M765 1952V1966" stroke="#00AEEF" stroke-width="0.5"/>
+<g id="Group_4">
+<path id="Vector_7" d="M768.311 1966.16C768.828 1966.16 769.082 1965.96 769.268 1965.41L770.527 1961.97H776.289L777.549 1965.41C777.734 1965.96 777.988 1966.16 778.496 1966.16C779.014 1966.16 779.346 1965.84 779.346 1965.36C779.346 1965.19 779.316 1965.03 779.238 1964.83L774.658 1952.63C774.434 1952.04 774.033 1951.73 773.408 1951.73C772.803 1951.73 772.393 1952.03 772.178 1952.62L767.598 1964.84C767.52 1965.04 767.49 1965.2 767.49 1965.37C767.49 1965.85 767.803 1966.16 768.311 1966.16ZM771.006 1960.48L773.379 1953.91H773.428L775.801 1960.48H771.006Z" fill="black"/>
+</g>
+<path id="Vector_8" d="M781.836 1952V1966" stroke="#00AEEF" stroke-width="0.5"/>
+<text id="Margins" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="13" font-weight="bold" letter-spacing="0em"><tspan x="765" y="1985.73">Margins</tspan></text>
+<text id="Leading and trailing margins on the left and right side of each symbol" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="765" y="2003.73">Leading and trailing margins on the left and right side of each symbol</tspan></text>
+<text id="can be adjusted by modifying the x-location of the margin guidelines." fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="765" y="2021.73">can be adjusted by modifying the x-location of the margin guidelines.</tspan></text>
+<text id="Modifications are automatically applied proportionally to all" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="765" y="2039.73">Modifications are automatically applied proportionally to all</tspan></text>
+<text id="scales and weights." fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="765" y="2057.73">scales and weights.</tspan></text>
+<g id="Group_5">
+<path id="Vector_9" d="M1280.84 1967.87L1282.54 1969.57C1283.4 1970.44 1284.39 1970.38 1285.31 1969.36L1296.01 1957.57L1295.04 1956.6L1284.43 1968.28C1284.07 1968.68 1283.74 1968.77 1283.27 1968.3L1282.1 1967.14C1281.63 1966.68 1281.74 1966.34 1282.14 1965.98L1293.62 1955.18L1292.64 1954.21L1281.05 1965.1C1280.06 1966.02 1279.98 1967 1280.84 1967.87ZM1287.26 1949.67C1286.84 1950.08 1286.81 1950.66 1287.04 1951.05C1287.28 1951.41 1287.74 1951.64 1288.38 1951.48C1289.85 1951.14 1291.37 1951.08 1292.79 1952.02L1292.21 1953.47C1291.87 1954.3 1292.04 1954.89 1292.58 1955.43L1294.88 1957.75C1295.36 1958.24 1295.77 1958.26 1296.34 1958.16L1297.4 1957.96L1298.07 1958.64L1298.03 1959.19C1297.99 1959.69 1298.12 1960.07 1298.61 1960.55L1299.37 1961.29C1299.85 1961.77 1300.46 1961.8 1300.93 1961.33L1303.84 1958.41C1304.31 1957.94 1304.29 1957.35 1303.81 1956.87L1303.04 1956.11C1302.56 1955.63 1302.19 1955.47 1301.71 1955.51L1301.13 1955.56L1300.49 1954.93L1300.73 1953.8C1300.86 1953.24 1300.71 1952.8 1300.12 1952.21L1297.92 1950.02C1294.58 1946.7 1290.15 1946.78 1287.26 1949.67ZM1288.75 1950.04C1291.18 1948.27 1294.47 1948.57 1296.7 1950.79L1299.13 1953.21C1299.37 1953.44 1299.41 1953.63 1299.34 1953.97L1299.02 1955.45L1300.52 1956.94L1301.51 1956.88C1301.76 1956.87 1301.84 1956.89 1302.03 1957.08L1302.61 1957.66L1300.17 1960.1L1299.59 1959.53C1299.4 1959.33 1299.37 1959.25 1299.38 1958.99L1299.45 1958.01L1297.95 1956.53L1296.43 1956.78C1296.11 1956.85 1295.96 1956.82 1295.71 1956.59L1293.71 1954.58C1293.46 1954.35 1293.43 1954.18 1293.59 1953.81L1294.46 1951.72C1292.9 1950.27 1290.87 1949.64 1288.84 1950.24C1288.68 1950.28 1288.63 1950.15 1288.75 1950.04Z" fill="black"/>
+</g>
+<text id="Exporting" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="13" font-weight="bold" letter-spacing="0em"><tspan x="1278" y="1985.73">Exporting</tspan></text>
+<text id="Symbols should be outlined when exporting to ensure the" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="1278" y="2003.73">Symbols should be outlined when exporting to ensure the</tspan></text>
+<text id="design is preserved when submitting to Xcode." fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="1278" y="2021.73">design is preserved when submitting to Xcode.</tspan></text>
+<text id="template-version" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="2935.54" y="1965.73">Template v.6.0</tspan></text>
+<text id="Requires Xcode 16 or greater" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="2847.16" y="1983.73">Requires Xcode 16 or greater</tspan></text>
+<text id="descriptive-name" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="2849.79" y="2001.73">Generated from arcade.stick</tspan></text>
+<text id="Typeset at 100.0 points" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="2881.56" y="2019.73">Typeset at 100.0 points</tspan></text>
+<text id="Small" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="252" y="758.727">Small</tspan></text>
+<text id="Medium_2" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="252" y="1188.73">Medium</tspan></text>
+<text id="Large" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="252" y="1618.73">Large</tspan></text>
+</g>
+<g id="Guides">
+<g id="H-reference">
+<path id="Vector_10" d="M339.994 696H342.638L368.328 628.868H369.03V625.541H367.123L339.994 696ZM350.688 671.52H385.981L385.231 669.272H351.438L350.688 671.52ZM394.12 696H396.764L369.638 625.541H368.433V628.868L394.12 696Z" fill="#27AAE1"/>
+</g>
+<path id="Baseline-S" d="M263 696H3036" stroke="#27AAE1" stroke-width="0.5"/>
+<path id="Capline-S" d="M263 625.541H3036" stroke="#27AAE1" stroke-width="0.5"/>
+<g id="H-reference_2">
+<path id="Vector_11" d="M339.994 1126H342.638L368.328 1058.87H369.03V1055.54H367.123L339.994 1126ZM350.688 1101.52H385.981L385.231 1099.27H351.438L350.688 1101.52ZM394.12 1126H396.764L369.638 1055.54H368.433V1058.87L394.12 1126Z" fill="#27AAE1"/>
+</g>
+<path id="Baseline-M" d="M263 1126H3036" stroke="#27AAE1" stroke-width="0.5"/>
+<path id="Capline-M" d="M263 1055.54H3036" stroke="#27AAE1" stroke-width="0.5"/>
+<g id="H-reference_3">
+<path id="Vector_12" d="M339.994 1556H342.638L368.328 1488.87H369.03V1485.54H367.123L339.994 1556ZM350.688 1531.52H385.981L385.231 1529.27H351.438L350.688 1531.52ZM394.12 1556H396.764L369.638 1485.54H368.433V1488.87L394.12 1556Z" fill="#27AAE1"/>
+</g>
+<path id="Baseline-L" d="M263 1556H3036" stroke="#27AAE1" stroke-width="0.5"/>
+<path id="Capline-L" d="M263 1485.54H3036" stroke="#27AAE1" stroke-width="0.5"/>
+<path id="right-margin-Black-S" d="M2970.48 600.785V720.121" stroke="#00AEEF" stroke-width="0.5"/>
+<path id="left-margin-Black-S" d="M2896.32 600.785V720.121" stroke="#00AEEF" stroke-width="0.5"/>
+<path id="right-margin-Regular-S" d="M1483.22 600.785V720.121" stroke="#00AEEF" stroke-width="0.5"/>
+<path id="left-margin-Regular-S" d="M1416.47 600.785V720.121" stroke="#00AEEF" stroke-width="0.5"/>
+<path id="right-margin-Ultralight-S" d="M597 600V719.336" stroke="#00AEEF" stroke-width="0.5"/>
+<path id="left-margin-Ultralight-S" d="M524 600V719.336" stroke="#00AEEF" stroke-width="0.5"/>
+</g>
+<g id="Symbols">
+<g id="Black-S">
+<path id="Vector_13" d="M2932.5 615C2925.94 615 2920.63 620.314 2920.63 626.87C2920.63 633.425 2925.94 638.739 2932.5 638.739C2939.06 638.739 2944.37 633.425 2944.37 626.87C2944.37 620.314 2939.06 615 2932.5 615ZM2928.54 646.111C2925.96 646.475 2923.41 647.16 2920.98 648.236L2888.44 662.687C2883.85 664.728 2883.85 671.24 2888.44 673.281L2920.98 687.732C2928.32 690.988 2936.68 690.988 2944.02 687.732L2976.56 673.281C2981.15 671.24 2981.15 664.728 2976.56 662.687L2944.02 648.236C2941.59 647.156 2939.04 646.475 2936.46 646.111V667.424C2936.46 669.062 2934.68 670.391 2932.5 670.391C2930.32 670.391 2928.54 669.062 2928.54 667.424V646.111ZM2903.7 664.062C2907.44 664.062 2910.48 665.797 2910.48 667.934C2910.48 670.07 2907.44 671.798 2903.7 671.798C2899.95 671.798 2896.92 670.07 2896.92 667.934C2896.92 665.797 2899.95 664.062 2903.7 664.062ZM2886.57 678.876C2885.74 678.955 2885.03 679.648 2885.03 680.568V683.853C2885.05 685.977 2886.17 688.094 2888.45 689.107L2920.99 703.558C2928.32 706.814 2936.68 706.814 2944.02 703.558L2976.56 689.107C2978.84 688.094 2979.96 685.977 2979.97 683.853V680.568C2979.97 679.342 2978.7 678.524 2977.58 679.023L2944.02 693.922C2936.68 697.178 2928.32 697.178 2920.98 693.922L2887.42 679.023C2887.14 678.898 2886.85 678.85 2886.57 678.876Z" stroke="black" stroke-width="0.5"/>
+</g>
+<g id="Regular-S">
+<path id="Vector_14" d="M1449.5 619C1443.49 619 1438.63 623.846 1438.63 629.826C1438.63 635.806 1443.49 640.652 1449.5 640.652C1455.51 640.652 1460.37 635.806 1460.37 629.826C1460.37 623.846 1455.51 619 1449.5 619ZM1445.88 647.376C1443.51 647.708 1441.18 648.333 1438.95 649.314L1409.15 662.495C1404.95 664.357 1404.95 670.296 1409.15 672.158L1438.95 685.338C1445.67 688.308 1453.33 688.308 1460.05 685.338L1489.85 672.158C1494.05 670.296 1494.05 664.357 1489.85 662.495L1460.05 649.314C1457.82 648.329 1455.49 647.708 1453.12 647.376V666.815C1453.12 668.309 1451.5 669.522 1449.5 669.522C1447.5 669.522 1445.88 668.309 1445.88 666.815V647.376ZM1423.12 663.749C1426.55 663.749 1429.33 665.332 1429.33 667.28C1429.33 669.229 1426.55 670.804 1423.12 670.804C1419.69 670.804 1416.91 669.229 1416.91 667.28C1416.91 665.332 1419.69 663.749 1423.12 663.749ZM1407.44 677.261C1406.68 677.332 1406.03 677.965 1406.03 678.804V681.8C1406.04 683.737 1407.07 685.669 1409.16 686.592L1438.96 699.773C1445.68 702.742 1453.33 702.742 1460.05 699.773L1489.85 686.592C1491.94 685.669 1492.96 683.737 1492.98 681.8V678.804C1492.98 677.685 1491.81 676.94 1490.79 677.394L1460.05 690.983C1453.33 693.953 1445.67 693.953 1438.95 690.983L1408.22 677.394C1407.96 677.281 1407.69 677.237 1407.44 677.261Z" stroke="black" stroke-width="0.5"/>
+</g>
+<g id="Ultralight-S">
+<path id="Vector_15" d="M560.5 626C555.46 626 551.376 630.087 551.376 635.13C551.376 640.173 555.46 644.261 560.5 644.261C565.54 644.261 569.624 640.173 569.624 635.13C569.624 630.087 565.54 626 560.5 626ZM557.459 649.932C555.476 650.212 553.516 650.739 551.649 651.566L526.646 662.682C523.118 664.253 523.118 669.261 526.646 670.832L551.649 681.948C557.285 684.452 563.715 684.452 569.351 681.948L594.354 670.832C597.882 669.261 597.882 664.253 594.354 662.682L569.351 651.566C567.484 650.735 565.528 650.212 563.541 649.932V666.326C563.541 667.586 562.179 668.609 560.5 668.609C558.821 668.609 557.459 667.586 557.459 666.326V649.932ZM538.366 663.74C541.244 663.74 543.576 665.075 543.576 666.718C543.576 668.362 541.247 669.69 538.366 669.69C535.489 669.69 533.157 668.362 533.157 666.718C533.157 665.075 535.489 663.74 538.366 663.74ZM525.209 675.135C524.571 675.196 524.026 675.73 524.026 676.437V678.964C524.035 680.598 524.897 682.226 526.652 683.006L551.655 694.121C557.291 696.626 563.715 696.626 569.351 694.121L594.354 683.006C596.109 682.226 596.97 680.598 596.98 678.964V676.437C596.98 675.494 596.005 674.865 595.144 675.248L569.351 686.709C563.715 689.214 557.285 689.214 551.649 686.709L525.862 675.248C525.646 675.152 525.421 675.115 525.209 675.135Z" stroke="black" stroke-width="0.5"/>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_1_2">
+<rect width="3300" height="2200" fill="white"/>
+</clipPath>
+</defs>
+</svg>
